@@ -1,5 +1,10 @@
-# Firebase Web Codelab - Start code
+# Friendly Chat - adapted for mikegfisher.com
+I ran through this project to refamiliarize myself with Firebase after they were acquired by Google and got a bunch of cool new features. I now use it as an open chatroom connected to my personal website. 
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+[Mike G Fisher - Personal Website](http://mikegfisher.com)
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+[Friendly Chat dot Mike G Fisher](https://friendlychat.mikegfisher.com)
+
+
+
+Original Project - [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
