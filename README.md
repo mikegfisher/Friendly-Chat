@@ -10,3 +10,4 @@ I ran through this project to refamiliarize myself with Firebase after they were
 Original Project - [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
 Testing branch stuff. 
+Another change
